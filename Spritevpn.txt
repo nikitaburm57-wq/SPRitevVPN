@@ -1,0 +1,6 @@
+
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=999000000000000; expire=4102444799
+#support-url: https://t.me/FINSED
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@de.opngtr.nl:443?security=reality&encryption=none&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.savesafe.cc&sid=c37c2ae6f6eb0d71#%F0%9F%87%A9%F0%9F%87%AA%20Germany
