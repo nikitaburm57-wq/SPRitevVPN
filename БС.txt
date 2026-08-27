@@ -1,6 +1,6 @@
 #profile-title: 💚SPriteVPN💚
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=999000000000000; expire=4102444799
+#subscription-userinfo: upload=0; download=20; total=500; expire=200
 #support-url: https://t.me/FINSED
 
 vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@94.183.219.58:15206?security=reality&encryption=none&pbk=9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.routeon.pro#%F0%9F%87%B5%F0%9F%87%B1%F0%9F%92%9APoland%F0%9F%92%9A
